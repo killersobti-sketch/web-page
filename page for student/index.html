@@ -1,0 +1,181 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>CSE Pro Hub</title>
+
+<link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;600&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="style.css">
+<script src="script.js"></script>
+</head>
+
+<body>
+
+<header>
+    <h1>CSE PRO HUB 🚀</h1>
+    <p>Build Skills. Track Progress. Get Placed.</p>
+</header>
+
+<nav>
+<a href="#courses">Courses</a>
+<a href="#projects">Projects</a>
+<a href="#tracker">Tracker</a>
+<a href="#resources">Resources</a>
+<a href="#contact">Contact</a>
+</nav>
+
+<section class="hero">
+    <h2>Become a Job-Ready Developer</h2>
+    <p>No shortcuts. Only skills.</p>
+    <button onclick="scrollToSection('courses')">Start Learning</button>
+</section>
+
+<!-- COURSES -->
+<section class="section" id="courses">
+<h2>Core Subjects</h2>
+<div class="card-container">
+
+<div class="card">
+<h3>DSA</h3>
+<p>Problem solving + interviews</p>
+<button onclick="openLink('https://www.geeksforgeeks.org/dsa/dsa-tutorial-learn-data-structures-and-algorithms/')">Practice</button>
+</div>
+
+<div class="card">
+<h3>Operating System</h3>
+<p>Memory, Threads, Scheduling</p>
+<button onclick="openLink('https://www.geeksforgeeks.org/operating-systems/')">Learn</button>
+</div>
+
+<div class="card">
+<h3>DBMS</h3>
+<p>SQL + Database Design</p>
+<button onclick="openLink('https://www.w3schools.com/sql/')">Start</button>
+</div>
+
+<div class="card">
+<h3>Computer Networks</h3>
+<p>TCP/IP + OSI Model</p>
+<button onclick="openLink('https://www.geeksforgeeks.org/computer-network-tutorials/')">Explore</button>
+</div>
+
+</div>
+</section>
+
+<!-- PROJECTS -->
+<section class="section" id="projects">
+<h2>Projects (Must Build)</h2>
+<div class="card-container">
+
+<div class="card">
+<h3>Portfolio Website</h3>
+<p>Show your skills online</p>
+</div>
+
+<div class="card">
+<h3>Full Stack Blog</h3>
+<p>Create, edit, delete posts</p>
+</div>
+
+<div class="card">
+<h3>Chat Application</h3>
+<p>Real-time messaging</p>
+</div>
+
+<div class="card">
+<h3>DSA Tracker</h3>
+<p>Track your coding progress</p>
+</div>
+
+</div>
+</section>
+
+<!-- TRACKER -->
+<section class="section" id="tracker">
+<h2>DSA Progress Tracker</h2>
+<input type="number" id="progressInput" placeholder="Enter solved problems">
+<button onclick="updateProgress()">Update Progress</button>
+
+<div class="progress">
+<div class="progress-bar" id="progressBar"></div>
+</div>
+
+<p id="progressText"></p>
+</section>
+
+<!-- RESOURCES -->
+<section class="section" id="resources">
+<h2>Top Resources</h2>
+<div class="card-container">
+
+<div class="card">
+<h3>GitHub</h3>
+<button onclick="openLink('https://github.com')">Visit</button>
+</div>
+
+<div class="card">
+<h3>YouTube</h3>
+<button onclick="openLink('https://youtube.com')">Watch</button>
+</div>
+
+<div class="card">
+<h3>LeetCode</h3>
+<button onclick="openLink('https://leetcode.com')">Solve</button>
+</div>
+
+<div class="card">
+<h3>GeeksforGeeks</h3>
+<button onclick="openLink('https://www.geeksforgeeks.org')">Read</button>
+</div>
+
+</div>
+
+<!-- LOGIN (MOVED OUTSIDE CARD GRID) -->
+<div class="login">
+  <h2>Login</h2>
+  <input type="text" placeholder="Username">
+  <input type="password" placeholder="Password">
+  <button>Login</button>
+</div>
+
+</section>
+
+<!-- CONTACT -->
+<section class="section" id="contact">
+<h2>Contact / Feedback</h2>
+<input type="text" placeholder="Your Name">
+<input type="email" placeholder="Your Email">
+<textarea placeholder="Your Message"></textarea>
+<button onclick="showMessage()">Send</button>
+</section>
+
+<!-- FOOTER -->
+<footer>
+<p>© 2026 CSE Pro Hub</p>
+</footer>
+
+<!-- JS (FIXED FUNCTIONS) -->
+<script>
+function scrollToSection(id) {
+  document.getElementById(id).scrollIntoView({ behavior: "smooth" });
+}
+
+function openLink(url) {
+  window.open(url, "_blank");
+}
+
+function updateProgress() {
+  let value = document.getElementById("progressInput").value;
+  let percent = Math.min(value, 100);
+  document.getElementById("progressBar").style.width = percent + "%";
+  document.getElementById("progressText").innerText = percent + "% completed";
+}
+
+function showMessage() {
+  alert("Message Sent!");
+}
+</script>
+
+</body>
+</html>
