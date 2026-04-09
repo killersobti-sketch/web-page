@@ -1,0 +1,105 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Slider Quiz App</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+
+<body>
+
+<div class="app">
+
+  <!-- FILTERS -->
+  <div class="container">
+    <select id="courseSelect">
+      <option value="">All Course</option>
+      <option value="SSC">SSC</option>
+      <option value="Railway">Railway</option>
+      <option value="Banking">Banking</option>
+    </select>
+
+    <select id="pyqSelect">
+      <option value="">All PYQ</option>
+      <option value="SSC">SSC PYQ</option>
+      <option value="Railway">Railway PYQ</option>
+      <option value="Banking">Banking PYQ</option>
+    </select>
+
+    <select id="categorySelect">
+      <option value="">All Category</option>
+      <option value="Math">Math</option>
+      <option value="GK">GK</option>
+      <option value="Reasoning">Reasoning</option>
+    </select>
+  </div>
+
+  <!-- INFO -->
+  <h4 id="activeFilter"></h4>
+  <h3 id="timer">Time: 60s</h3>
+
+  <!-- SLIDER -->
+  <div id="quizWrapper">
+    <div id="questionSlider"></div>
+  </div>
+
+  <!-- NAV -->
+  <div class="nav-buttons">
+    <button onclick="prevQuestion()">⬅ Prev</button>
+    <button onclick="nextQuestion()">Next ➡</button>
+  </div>
+
+  <!-- SUBMIT -->
+  <button onclick="submitQuiz()">Submit</button>
+
+  <!-- RESULT -->
+ <div id="resultDashboard" class="dashboard hidden">
+
+  <h2>📊 Performance Report</h2>
+
+  <!-- SCORE RING -->
+  <div class="charts-grid">
+
+  <div class="chart-box">
+    <h3 class="chart-title">📊 Score Analysis</h3>
+    <canvas id="barChart"></canvas>
+  </div>
+
+  <div class="chart-box">
+    <h3 class="chart-title">🥧 Accuracy Split</h3>
+    <canvas id="pieChart"></canvas>
+  </div>
+
+</div>
+  <!-- STATS -->
+  <div class="dashboard-grid">
+    <div class="card">
+      <h3>Total</h3>
+      <p id="totalQ">0</p>
+    </div>
+
+    <div class="card success">
+      <h3>Correct</h3>
+      <p id="correctQ">0</p>
+    </div>
+
+    <div class="card danger">
+      <h3>Wrong</h3>
+      <p id="wrongQ">0</p>
+    </div>
+
+    <div class="card info">
+      <h3>Status</h3>
+      <p id="statusText">--</p>
+    </div>
+  </div>
+
+</div>
+
+</div>
+
+<script src="script.js"></script>
+
+</body>
+</html>

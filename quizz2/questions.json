@@ -1,0 +1,2604 @@
+[
+
+  {
+    "id": 1,
+    "type": "course",
+    "course": "SSC",
+    "question": "2 + 2 = ?",
+    "options": ["1", "2", "3", "4"],
+    "correctAnswer": 3,
+    "explanation": "2 + 2 = 4"
+  },
+  {
+    "id": 2,
+    "type": "course",
+    "course": "SSC",
+    "question": "10 - 5 = ?",
+    "options": ["2", "5", "10", "15"],
+    "correctAnswer": 1,
+    "explanation": "10 - 5 = 5"
+  },
+  {
+    "id": 3,
+    "type": "course",
+    "course": "SSC",
+    "question": "5 × 5 = ?",
+    "options": ["10", "15", "20", "25"],
+    "correctAnswer": 3,
+    "explanation": "5 × 5 = 25"
+  },
+  {
+    "id": 4,
+    "type": "course",
+    "course": "Railway",
+    "question": "Capital of India?",
+    "options": ["Delhi", "Mumbai", "Kolkata", "Chennai"],
+    "correctAnswer": 0,
+    "explanation": "Delhi is capital"
+  },
+  {
+    "id": 5,
+    "type": "course",
+    "course": "Railway",
+    "question": "Largest state in India?",
+    "options": ["UP", "MP", "Rajasthan", "Bihar"],
+    "correctAnswer": 2,
+    "explanation": "Rajasthan is largest"
+  },
+  {
+    "id": 6,
+    "type": "course",
+    "course": "Banking",
+    "question": "Full form of RBI?",
+    "options": ["Reserve Bank of India", "Rural Bank India", "Rich Bank India", "None"],
+    "correctAnswer": 0,
+    "explanation": "Correct answer: RBI"
+  },
+  {
+    "id": 7,
+    "type": "course",
+    "course": "Banking",
+    "question": "Currency of India?",
+    "options": ["Dollar", "Rupee", "Euro", "Yen"],
+    "correctAnswer": 1,
+    "explanation": "India uses Rupee"
+  },
+  {
+    "id": 8,
+    "type": "pyq",
+    "course": "SSC",
+    "year": 2022,
+    "question": "SSC 2022: 15 + 5 = ?",
+    "options": ["10", "20", "25", "30"],
+    "correctAnswer": 1,
+    "explanation": "15 + 5 = 20"
+  },
+  {
+    "id": 9,
+    "type": "pyq",
+    "course": "SSC",
+    "year": 2021,
+    "question": "SSC 2021: 8 × 2 = ?",
+    "options": ["10", "12", "16", "20"],
+    "correctAnswer": 2,
+    "explanation": "8 × 2 = 16"
+  },
+  {
+    "id": 10,
+    "type": "pyq",
+    "course": "Railway",
+    "year": 2020,
+    "question": "Railway 2020: 20 - 10 = ?",
+    "options": ["5", "10", "15", "20"],
+    "correctAnswer": 1,
+    "explanation": "20 - 10 = 10"
+  },
+  {
+    "id": 11,
+    "type": "pyq",
+    "course": "Railway",
+    "year": 2021,
+    "question": "Railway 2021: 9 + 1 = ?",
+    "options": ["8", "9", "10", "11"],
+    "correctAnswer": 2,
+    "explanation": "9 + 1 = 10"
+  },
+  {
+    "id": 12,
+    "type": "pyq",
+    "course": "Banking",
+    "year": 2020,
+    "question": "Banking 2020: 100 / 10 = ?",
+    "options": ["5", "10", "20", "50"],
+    "correctAnswer": 1,
+    "explanation": "100 / 10 = 10"
+  },
+  {
+    "id": 13,
+    "type": "course",
+    "course": "SSC",
+    "question": "Square of 6?",
+    "options": ["12", "24", "36", "48"],
+    "correctAnswer": 2,
+    "explanation": "6² = 36"
+  },
+  {
+    "id": 14,
+    "type": "course",
+    "course": "SSC",
+    "question": "Cube of 3?",
+    "options": ["9", "18", "27", "36"],
+    "correctAnswer": 2,
+    "explanation": "3³ = 27"
+  },
+  {
+    "id": 15,
+    "type": "course",
+    "course": "Railway",
+    "question": "India ka national animal?",
+    "options": ["Lion", "Tiger", "Elephant", "Cow"],
+    "correctAnswer": 1,
+    "explanation": "Tiger is national animal"
+  },
+  {
+    "id": 16,
+    "type": "course",
+    "course": "Railway",
+    "question": "India ka national bird?",
+    "options": ["Crow", "Peacock", "Parrot", "Sparrow"],
+    "correctAnswer": 1,
+    "explanation": "Peacock is national bird"
+  },
+  {
+    "id": 17,
+    "type": "course",
+    "course": "Banking",
+    "question": "ATM ka full form?",
+    "options": ["Automatic Teller Machine", "Any Time Money", "Auto Transfer Machine", "None"],
+    "correctAnswer": 0,
+    "explanation": "ATM full form correct"
+  },
+  {
+    "id": 18,
+    "type": "pyq",
+    "course": "SSC",
+    "year": 2020,
+    "question": "SSC 2020: 7 + 3 = ?",
+    "options": ["8", "9", "10", "11"],
+    "correctAnswer": 2,
+    "explanation": "7 + 3 = 10"
+  },
+  {
+    "id": 19,
+    "type": "pyq",
+    "course": "Railway",
+    "year": 2019,
+    "question": "Railway 2019: 4 × 5 = ?",
+    "options": ["10", "15", "20", "25"],
+    "correctAnswer": 2,
+    "explanation": "4 × 5 = 20"
+  },
+  {
+    "id": 20,
+    "type": "pyq",
+    "course": "Banking",
+    "year": 2022,
+    "question": "Banking 2022: 50 / 5 = ?",
+    "options": ["5", "10", "15", "20"],
+    "correctAnswer": 1,
+    "explanation": "50 / 5 = 10"
+  },
+
+  {
+    "id": 21,
+    "type": "course",
+    "course": "SSC",
+    "question": "What is the square of 12?",
+    "options": ["124", "144", "164", "184"],
+    "correctAnswer": 1,
+    "explanation": "12 × 12 = 144"
+  },
+  {
+    "id": 22,
+    "type": "course",
+    "course": "SSC",
+    "question": "Value of 15% of 200?",
+    "options": ["20", "25", "30", "35"],
+    "correctAnswer": 2,
+    "explanation": "15/100 * 200 = 30"
+  },
+  {
+    "id": 23,
+    "type": "course",
+    "course": "SSC",
+    "question": "If 2x = 10, then x = ?",
+    "options": ["2", "5", "8", "10"],
+    "correctAnswer": 1,
+    "explanation": "x = 10 / 2 = 5"
+  },
+  {
+    "id": 24,
+    "type": "course",
+    "course": "Railway",
+    "question": "Who was the first Prime Minister of India?",
+    "options": ["Mahatma Gandhi", "Jawaharlal Nehru", "Sardar Patel", "B.R. Ambedkar"],
+    "correctAnswer": 1,
+    "explanation": "Jawaharlal Nehru was the first PM."
+  },
+  {
+    "id": 25,
+    "type": "course",
+    "course": "Railway",
+    "question": "Which planet is known as the Red Planet?",
+    "options": ["Venus", "Mars", "Jupiter", "Saturn"],
+    "correctAnswer": 1,
+    "explanation": "Mars is known as the Red Planet due to iron oxide."
+  },
+  {
+    "id": 26,
+    "type": "course",
+    "course": "Banking",
+    "question": "What does 'C' stand for in KYC?",
+    "options": ["Cash", "Credit", "Customer", "Company"],
+    "correctAnswer": 2,
+    "explanation": "KYC stands for Know Your Customer."
+  },
+  {
+    "id": 27,
+    "type": "course",
+    "course": "Banking",
+    "question": "Headquarters of RBI is located in?",
+    "options": ["Delhi", "Kolkata", "Chennai", "Mumbai"],
+    "correctAnswer": 3,
+    "explanation": "RBI headquarters is in Mumbai."
+  },
+  {
+    "id": 28,
+    "type": "pyq",
+    "course": "SSC",
+    "year": 2023,
+    "question": "SSC 2023: Average of 10, 20, 30?",
+    "options": ["15", "20", "25", "30"],
+    "correctAnswer": 1,
+    "explanation": "(10+20+30)/3 = 20"
+  },
+  {
+    "id": 29,
+    "type": "pyq",
+    "course": "Railway",
+    "year": 2022,
+    "question": "Railway 2022: Largest ocean on Earth?",
+    "options": ["Atlantic", "Indian", "Arctic", "Pacific"],
+    "correctAnswer": 3,
+    "explanation": "The Pacific Ocean is the largest."
+  },
+  {
+    "id": 30,
+    "type": "pyq",
+    "course": "Banking",
+    "year": 2023,
+    "question": "Banking 2023: Which bank is called the Banker's Bank?",
+    "options": ["SBI", "PNB", "RBI", "HDFC"],
+    "correctAnswer": 2,
+    "explanation": "RBI regulates all other banks."
+  },
+  {
+    "id": 31,
+    "type": "course",
+    "course": "SSC",
+    "question": "Square root of 625?",
+    "options": ["15", "25", "35", "45"],
+    "correctAnswer": 1,
+    "explanation": "25 * 25 = 625"
+  },
+  {
+    "id": 32,
+    "type": "course",
+    "course": "SSC",
+    "question": "30% of 500 is?",
+    "options": ["100", "150", "200", "250"],
+    "correctAnswer": 1,
+    "explanation": "0.30 * 500 = 150"
+  },
+  {
+    "id": 33,
+    "type": "course",
+    "course": "Railway",
+    "question": "Chemical formula of Water?",
+    "options": ["CO2", "H2O", "O2", "NaCl"],
+    "correctAnswer": 1,
+    "explanation": "Water is H2O."
+  },
+  {
+    "id": 34,
+    "type": "course",
+    "course": "Railway",
+    "question": "Who wrote the National Anthem of India?",
+    "options": ["Premchand", "Rabindranath Tagore", "Kalidas", "Tulsi Das"],
+    "correctAnswer": 1,
+    "explanation": "Rabindranath Tagore wrote Jana Gana Mana."
+  },
+  {
+    "id": 35,
+    "type": "course",
+    "course": "Banking",
+    "question": "Minimum age to open a bank account in India?",
+    "options": ["10", "12", "15", "18"],
+    "correctAnswer": 0,
+    "explanation": "Minor accounts can be opened at 10 years."
+  },
+  {
+    "id": 36,
+    "type": "course",
+    "course": "Banking",
+    "question": "What is the full form of NEFT?",
+    "options": ["National Electronic Fund Transfer", "Net Electronic Fund Trust", "New Electronic Fund Transfer", "None"],
+    "correctAnswer": 0,
+    "explanation": "NEFT is National Electronic Fund Transfer."
+  },
+  {
+    "id": 37,
+    "type": "pyq",
+    "course": "SSC",
+    "year": 2021,
+    "question": "SSC 2021: 121 / 11 = ?",
+    "options": ["10", "11", "12", "13"],
+    "correctAnswer": 1,
+    "explanation": "11 * 11 = 121"
+  },
+  {
+    "id": 38,
+    "type": "pyq",
+    "course": "Railway",
+    "year": 2018,
+    "question": "Railway 2018: Vitamin C source?",
+    "options": ["Milk", "Apple", "Lemon", "Bread"],
+    "correctAnswer": 2,
+    "explanation": "Citrus fruits like Lemon are rich in Vitamin C."
+  },
+  {
+    "id": 39,
+    "type": "pyq",
+    "course": "Banking",
+    "year": 2021,
+    "question": "Banking 2021: Fixed Deposit is also known as?",
+    "options": ["Term Deposit", "Current Deposit", "Savings Deposit", "None"],
+    "correctAnswer": 0,
+    "explanation": "FD is a type of Term Deposit."
+  },
+  {
+    "id": 40,
+    "type": "course",
+    "course": "SSC",
+    "question": "Area of a square with side 5cm?",
+    "options": ["10", "20", "25", "30"],
+    "correctAnswer": 2,
+    "explanation": "5 * 5 = 25"
+  },
+ {
+    "id": 41,
+    "type": "course",
+    "course": "SSC",
+    "question": "What is the value of 2^5?",
+    "options": ["16", "32", "64", "128"],
+    "correctAnswer": 1,
+    "explanation": "2 × 2 × 2 × 2 × 2 = 32"
+  },
+  {
+    "id": 42,
+    "type": "course",
+    "course": "SSC",
+    "question": "The sum of angles in a triangle is?",
+    "options": ["90°", "180°", "270°", "360°"],
+    "correctAnswer": 1,
+    "explanation": "Sum of all interior angles of a triangle is 180°"
+  },
+  {
+    "id": 43,
+    "type": "course",
+    "course": "SSC",
+    "question": "Find the simple interest on 1000 at 10% for 2 years.",
+    "options": ["100", "200", "300", "400"],
+    "correctAnswer": 1,
+    "explanation": "(1000 × 10 × 2) / 100 = 200"
+  },
+  {
+    "id": 44,
+    "type": "course",
+    "course": "Railway",
+    "question": "Which river is known as the 'Ganga of South'?",
+    "options": ["Krishna", "Cauvery", "Godavari", "Narmada"],
+    "correctAnswer": 2,
+    "explanation": "Godavari is often referred to as Dakshina Ganga."
+  },
+  {
+    "id": 45,
+    "type": "course",
+    "course": "Railway",
+    "question": "Who was the first woman Prime Minister of India?",
+    "options": ["Pratibha Patil", "Indira Gandhi", "Sarojini Naidu", "Sushma Swaraj"],
+    "correctAnswer": 1,
+    "explanation": "Indira Gandhi was the first female PM."
+  },
+  {
+    "id": 46,
+    "type": "course",
+    "course": "Banking",
+    "question": "What is the full form of IFSC?",
+    "options": ["Indian Financial System Code", "International Finance System Code", "Indian Fund System Code", "None"],
+    "correctAnswer": 0,
+    "explanation": "IFSC stands for Indian Financial System Code."
+  },
+  {
+    "id": 47,
+    "type": "course",
+    "course": "Banking",
+    "question": "Which organization regulates the stock market in India?",
+    "options": ["RBI", "SEBI", "SIDBI", "NABARD"],
+    "correctAnswer": 1,
+    "explanation": "SEBI regulates the securities and stock market."
+  },
+  {
+    "id": 48,
+    "type": "pyq",
+    "course": "SSC",
+    "year": 2022,
+    "question": "SSC 2022: Perimeter of a rectangle (L=10, B=5)?",
+    "options": ["15", "30", "50", "60"],
+    "correctAnswer": 1,
+    "explanation": "2 * (10 + 5) = 30"
+  },
+  {
+    "id": 49,
+    "type": "pyq",
+    "course": "Railway",
+    "year": 2021,
+    "question": "Railway 2021: Largest desert in the world?",
+    "options": ["Thar", "Sahara", "Gobi", "Antarctic"],
+    "correctAnswer": 3,
+    "explanation": "The Antarctic Desert is the largest overall (Sahara is largest hot desert)."
+  },
+  {
+    "id": 50,
+    "type": "pyq",
+    "course": "Banking",
+    "year": 2023,
+    "question": "Banking 2023: What is the current Repo Rate determined by?",
+    "options": ["Finance Ministry", "RBI MPC", "SEBI", "SBI"],
+    "correctAnswer": 1,
+    "explanation": "The Monetary Policy Committee (MPC) of RBI sets the Repo Rate."
+  },
+  {
+    "id": 51,
+    "type": "course",
+    "course": "SSC",
+    "question": "Find the HCF of 12 and 18.",
+    "options": ["2", "3", "6", "9"],
+    "correctAnswer": 2,
+    "explanation": "Factors of 12 (1,2,3,4,6,12), 18 (1,2,3,6,9,18). Highest is 6."
+  },
+  {
+    "id": 52,
+    "type": "course",
+    "course": "SSC",
+    "question": "What is the capital of France?",
+    "options": ["Berlin", "Madrid", "Paris", "Rome"],
+    "correctAnswer": 2,
+    "explanation": "Paris is the capital of France."
+  },
+  {
+    "id": 53,
+    "type": "course",
+    "course": "Railway",
+    "question": "Who is known as the Missile Man of India?",
+    "options": ["C.V. Raman", "Homi Bhabha", "A.P.J. Abdul Kalam", "Vikram Sarabhai"],
+    "correctAnswer": 2,
+    "explanation": "Dr. A.P.J. Abdul Kalam is the Missile Man."
+  },
+  {
+    "id": 54,
+    "type": "course",
+    "course": "Railway",
+    "question": "Which state has the longest coastline in India?",
+    "options": ["Tamil Nadu", "Maharashtra", "Gujarat", "Andhra Pradesh"],
+    "correctAnswer": 2,
+    "explanation": "Gujarat has the longest coastline in India."
+  },
+  {
+    "id": 55,
+    "type": "course",
+    "course": "Banking",
+    "question": "What is the full form of PAN?",
+    "options": ["Permanent Account Number", "Personal Account Number", "Public Access Network", "None"],
+    "correctAnswer": 0,
+    "explanation": "PAN stands for Permanent Account Number."
+  },
+  {
+    "id": 56,
+    "type": "course",
+    "course": "Banking",
+    "question": "Who issues currency notes in India?",
+    "options": ["SBI", "Ministry of Finance", "RBI", "Government of India"],
+    "correctAnswer": 2,
+    "explanation": "RBI issues all currency notes except the one-rupee note."
+  },
+  {
+    "id": 57,
+    "type": "pyq",
+    "course": "SSC",
+    "year": 2021,
+    "question": "SSC 2021: 0.5 + 0.25 = ?",
+    "options": ["0.70", "0.75", "0.80", "1.00"],
+    "correctAnswer": 1,
+    "explanation": "0.50 + 0.25 = 0.75"
+  },
+  {
+    "id": 58,
+    "type": "pyq",
+    "course": "Railway",
+    "year": 2019,
+    "question": "Railway 2019: First satellite launched by India?",
+    "options": ["Rohini", "Bhaskara", "Aryabhata", "Apple"],
+    "correctAnswer": 2,
+    "explanation": "Aryabhata was launched in 1975."
+  },
+  {
+    "id": 59,
+    "type": "pyq",
+    "course": "Banking",
+    "year": 2020,
+    "question": "Banking 2020: Which is the largest public sector bank in India?",
+    "options": ["PNB", "BOB", "SBI", "Canara Bank"],
+    "correctAnswer": 2,
+    "explanation": "State Bank of India (SBI) is the largest."
+  },
+  {
+    "id": 60,
+    "type": "course",
+    "course": "SSC",
+    "question": "Value of (a + b)² ?",
+    "options": ["a² + b²", "a² + 2ab + b²", "a² - 2ab + b²", "a + b"],
+    "correctAnswer": 1,
+    "explanation": "Standard algebraic identity: a² + 2ab + b²"
+  },
+  
+  {
+
+    "id": 61,
+
+    "type": "course",
+
+    "course": "SSC",
+
+    "question": "What is the cube of 4?",
+
+    "options": ["16", "32", "64", "128"],
+
+    "correctAnswer": 2,
+
+    "explanation": "4 × 4 × 4 = 64"
+
+  },
+
+  {
+
+    "id": 62,
+
+    "type": "course",
+
+    "course": "Railway",
+
+    "question": "Which is the longest river in the world?",
+
+    "options": ["Amazon", "Nile", "Ganga", "Mississippi"],
+
+    "correctAnswer": 1,
+
+    "explanation": "The Nile is the longest river globally."
+
+  },
+
+  {
+
+    "id": 63,
+
+    "type": "course",
+
+    "course": "Banking",
+
+    "question": "Full form of LIBOR?",
+
+    "options": ["London Interbank Offered Rate", "Local Indian Bank Online Rate", "Low Interest Bank Offer Rate", "None"],
+
+    "correctAnswer": 0,
+
+    "explanation": "LIBOR is the benchmark interest rate for global banks."
+
+  },
+
+  {
+
+    "id": 64,
+
+    "type": "pyq",
+
+    "course": "SSC",
+
+    "year": 2022,
+
+    "question": "SSC 2022: Value of tan 45°?",
+
+    "options": ["0", "1/2", "1", "Infinity"],
+
+    "correctAnswer": 2,
+
+    "explanation": "The value of tan 45 degrees is 1."
+
+  },
+
+  {
+
+    "id": 65,
+
+    "type": "pyq",
+
+    "course": "Railway",
+
+    "year": 2019,
+
+    "question": "Railway 2019: Who discovered Gravity?",
+
+    "options": ["Einstein", "Newton", "Galileo", "Tesla"],
+
+    "correctAnswer": 1,
+
+    "explanation": "Sir Isaac Newton discovered the law of gravity."
+
+  },
+
+  {
+
+    "id": 66,
+
+    "type": "pyq",
+
+    "course": "Banking",
+
+    "year": 2021,
+
+    "question": "Banking 2021: Which rate is higher generally?",
+
+    "options": ["Repo Rate", "MSF Rate", "Reverse Repo Rate", "Bank Rate"],
+
+    "correctAnswer": 1,
+
+    "explanation": "MSF (Marginal Standing Facility) is typically higher than Repo."
+
+  },
+
+  {
+
+    "id": 67,
+
+    "type": "course",
+
+    "course": "SSC",
+
+    "question": "Average of first 5 natural numbers?",
+
+    "options": ["2", "3", "4", "5"],
+
+    "correctAnswer": 1,
+
+    "explanation": "(1+2+3+4+5)/5 = 15/5 = 3"
+
+  },
+
+  {
+
+    "id": 68,
+
+    "type": "course",
+
+    "course": "Railway",
+
+    "question": "Which gas is used in fire extinguishers?",
+
+    "options": ["Oxygen", "Nitrogen", "Carbon Dioxide", "Helium"],
+
+    "correctAnswer": 2,
+
+    "explanation": "CO2 is used to displace oxygen and put out fires."
+
+  },
+
+  {
+
+    "id": 69,
+
+    "type": "course",
+
+    "course": "Banking",
+
+    "question": "What is the validity period of a Cheque?",
+
+    "options": ["1 Month", "3 Months", "6 Months", "Unlimited"],
+
+    "correctAnswer": 1,
+
+    "explanation": "A cheque is valid for 3 months from the date of issue."
+
+  },
+
+  {
+
+    "id": 70,
+
+    "type": "pyq",
+
+    "course": "SSC",
+
+    "year": 2020,
+
+    "question": "SSC 2020: 10% of 10% of 100?",
+
+    "options": ["1", "10", "0.1", "0.01"],
+
+    "correctAnswer": 0,
+
+    "explanation": "10% of 100 is 10, and 10% of 10 is 1."
+
+  },
+
+  {
+
+    "id": 71,
+
+    "type": "pyq",
+
+    "course": "Railway",
+
+    "year": 2020,
+
+    "question": "Railway 2020: S.I. unit of Power?",
+
+    "options": ["Joule", "Newton", "Watt", "Pascal"],
+
+    "correctAnswer": 2,
+
+    "explanation": "The unit of power is the Watt (W)."
+
+  },
+
+  {
+
+    "id": 72,
+
+    "type": "pyq",
+
+    "course": "Banking",
+
+    "year": 2022,
+
+    "question": "Banking 2022: Maximum limit for IMPS per day?",
+
+    "options": ["1 Lakh", "2 Lakh", "5 Lakh", "10 Lakh"],
+
+    "correctAnswer": 2,
+
+    "explanation": "The current standard limit for IMPS is 5 Lakh."
+
+  },
+
+  {
+
+    "id": 73,
+
+    "type": "course",
+
+    "course": "SSC",
+
+    "question": "Complementary angle of 30°?",
+
+    "options": ["30°", "60°", "90°", "150°"],
+
+    "correctAnswer": 1,
+
+    "explanation": "90 - 30 = 60"
+
+  },
+
+  {
+
+    "id": 74,
+
+    "type": "course",
+
+    "course": "Railway",
+
+    "question": "Which city is known as Pink City?",
+
+    "options": ["Udaipur", "Jaipur", "Jodhpur", "Bikaner"],
+
+    "correctAnswer": 1,
+
+    "explanation": "Jaipur is known as the Pink City."
+
+  },
+
+  {
+
+    "id": 75,
+
+    "type": "course",
+
+    "course": "Banking",
+
+    "question": "Full form of EMI?",
+
+    "options": ["Every Month Installment", "Equated Monthly Installment", "Equal Money Interest", "None"],
+
+    "correctAnswer": 1,
+
+    "explanation": "EMI is Equated Monthly Installment."
+
+  },
+
+  {
+
+    "id": 76,
+
+    "type": "pyq",
+
+    "course": "SSC",
+
+    "year": 2021,
+
+    "question": "SSC 2021: Ratio of 20 to 80?",
+
+    "options": ["1:2", "1:3", "1:4", "2:5"],
+
+    "correctAnswer": 2,
+
+    "explanation": "20/80 = 1/4"
+
+  },
+
+  {
+
+    "id": 77,
+
+    "type": "pyq",
+
+    "course": "Railway",
+
+    "year": 2018,
+
+    "question": "Railway 2018: Brightest planet in the solar system?",
+
+    "options": ["Mercury", "Venus", "Mars", "Jupiter"],
+
+    "correctAnswer": 1,
+
+    "explanation": "Venus is the brightest planet."
+
+  },
+
+  {
+
+    "id": 78,
+
+    "type": "pyq",
+
+    "course": "Banking",
+
+    "year": 2019,
+
+    "question": "Banking 2019: Which bank was the first to introduce ATM in India?",
+
+    "options": ["SBI", "ICICI", "HSBC", "PNB"],
+
+    "correctAnswer": 2,
+
+    "explanation": "HSBC introduced the first ATM in 1987 in Mumbai."
+
+  },
+
+  {
+
+    "id": 79,
+
+    "type": "course",
+
+    "course": "SSC",
+
+    "question": "Value of π (Pi) approx?",
+
+    "options": ["2.14", "3.14", "4.14", "5.14"],
+
+    "correctAnswer": 1,
+
+    "explanation": "Pi is approximately 22/7 or 3.14."
+
+  },
+
+  {
+
+    "id": 80,
+
+    "type": "course",
+
+    "course": "Railway",
+
+    "question": "National sports of India?",
+
+    "options": ["Cricket", "Football", "Hockey", "None"],
+
+    "correctAnswer": 3,
+
+    "explanation": "India has no official 'National Sport' (Hockey is popular but not official)."
+
+  },
+  
+  {
+
+    "id": 81,
+
+    "type": "pyq",
+
+    "course": "Banking",
+
+    "year": 2022,
+
+    "question": "Banking 2022: What is the maximum amount for UPI Lite?",
+
+    "options": ["₹200", "₹500", "₹1000", "₹2000"],
+
+    "correctAnswer": 1,
+
+    "explanation": "The limit for a single UPI Lite transaction is ₹500."
+
+  },
+
+  {
+
+    "id": 82,
+
+    "type": "course",
+
+    "course": "SSC",
+
+    "question": "If the side of a square is doubled, its area becomes?",
+
+    "options": ["2 times", "4 times", "8 times", "Remains same"],
+
+    "correctAnswer": 1,
+
+    "explanation": "Area = side². (2s)² = 4s²."
+
+  },
+
+  {
+
+    "id": 83,
+
+    "type": "course",
+
+    "course": "Railway",
+
+    "question": "Who was the founder of the Mughal Empire?",
+
+    "options": ["Akbar", "Humayun", "Babur", "Shah Jahan"],
+
+    "correctAnswer": 2,
+
+    "explanation": "Babur founded the Mughal Empire in 1526."
+
+  },
+
+  {
+
+    "id": 84,
+
+    "type": "course",
+
+    "course": "Banking",
+
+    "question": "Which of these is a 'Private Sector' bank?",
+
+    "options": ["SBI", "Bank of Baroda", "HDFC Bank", "Canara Bank"],
+
+    "correctAnswer": 2,
+
+    "explanation": "HDFC is one of the largest private sector banks in India."
+
+  },
+
+  {
+
+    "id": 85,
+
+    "type": "pyq",
+
+    "course": "SSC",
+
+    "year": 2023,
+
+    "question": "SSC 2023: What is the unit of Frequency?",
+
+    "options": ["Volt", "Hertz", "Ohm", "Watt"],
+
+    "correctAnswer": 1,
+
+    "explanation": "Frequency is measured in Hertz (Hz)."
+
+  },
+
+  {
+
+    "id": 86,
+
+    "type": "pyq",
+
+    "course": "Railway",
+
+    "year": 2021,
+
+    "question": "Railway 2021: Which gland is known as the Master Gland?",
+
+    "options": ["Thyroid", "Adrenal", "Pituitary", "Pancreas"],
+
+    "correctAnswer": 2,
+
+    "explanation": "The Pituitary gland controls other endocrine glands."
+
+  },
+
+  {
+
+    "id": 87,
+
+    "type": "pyq",
+
+    "course": "Banking",
+
+    "year": 2020,
+
+    "question": "Banking 2020: What is 'A' in ATM?",
+
+    "options": ["Any", "Automated", "Authorized", "Account"],
+
+    "correctAnswer": 1,
+
+    "explanation": "ATM stands for Automated Teller Machine."
+
+  },
+
+  {
+
+    "id": 88,
+
+    "type": "course",
+
+    "course": "SSC",
+
+    "question": "Convert 20% into a fraction.",
+
+    "options": ["1/2", "1/4", "1/5", "1/10"],
+
+    "correctAnswer": 2,
+
+    "explanation": "20/100 = 1/5."
+
+  },
+
+  {
+
+    "id": 89,
+
+    "type": "course",
+
+    "course": "Railway",
+
+    "question": "The Battle of Plassey was fought in which year?",
+
+    "options": ["1757", "1764", "1857", "1947"],
+
+    "correctAnswer": 0,
+
+    "explanation": "It was fought in 1757 between Siraj-ud-Daulah and the British."
+
+  },
+
+  {
+
+    "id": 90,
+
+    "type": "course",
+
+    "course": "Banking",
+
+    "question": "What is the full form of RTGS?",
+
+    "options": ["Real Time Gross Settlement", "Ready To Go System", "Real Total Gross Sum", "None"],
+
+    "correctAnswer": 0,
+
+    "explanation": "RTGS stands for Real Time Gross Settlement."
+
+  },
+
+  {
+
+    "id": 91,
+
+    "type": "pyq",
+
+    "course": "SSC",
+
+    "year": 2021,
+
+    "question": "SSC 2021: Which is the smallest prime number?",
+
+    "options": ["0", "1", "2", "3"],
+
+    "correctAnswer": 2,
+
+    "explanation": "2 is the only even prime and the smallest prime number."
+
+  },
+
+  {
+
+    "id": 92,
+
+    "type": "pyq",
+
+    "course": "Railway",
+
+    "year": 2019,
+
+    "question": "Railway 2019: Deficiency of Vitamin A causes?",
+
+    "options": ["Scurvy", "Rickets", "Night Blindness", "Beriberi"],
+
+    "correctAnswer": 2,
+
+    "explanation": "Vitamin A deficiency leads to Night Blindness."
+
+  },
+
+  {
+
+    "id": 93,
+
+    "type": "pyq",
+
+    "course": "Banking",
+
+    "year": 2023,
+
+    "question": "Banking 2023: Who is the current Governor of RBI?",
+
+    "options": ["Urjit Patel", "Raghuram Rajan", "Shaktikanta Das", "Nirmala Sitharaman"],
+
+    "correctAnswer": 2,
+
+    "explanation": "Shaktikanta Das is the current Governor (as of 2026)."
+
+  },
+
+  {
+
+    "id": 94,
+
+    "type": "course",
+
+    "course": "SSC",
+
+    "question": "Find the third proportional to 4 and 6.",
+
+    "options": ["8", "9", "12", "18"],
+
+    "correctAnswer": 1,
+
+    "explanation": "4/6 = 6/x => 4x = 36 => x = 9."
+
+  },
+
+  {
+
+    "id": 95,
+
+    "type": "course",
+
+    "course": "Railway",
+
+    "question": "Which layer of Atmosphere contains the Ozone layer?",
+
+    "options": ["Troposphere", "Stratosphere", "Mesosphere", "Exosphere"],
+
+    "correctAnswer": 1,
+
+    "explanation": "The Stratosphere contains the protective Ozone layer."
+
+  },
+
+  {
+
+    "id": 96,
+
+    "type": "course",
+
+    "course": "Banking",
+
+    "question": "What is the maximum period for a Fixed Deposit?",
+
+    "options": ["5 years", "10 years", "15 years", "20 years"],
+
+    "correctAnswer": 1,
+
+    "explanation": "Generally, the maximum tenure for an FD is 10 years."
+
+  },
+
+  {
+
+    "id": 97,
+
+    "type": "pyq",
+
+    "course": "SSC",
+
+    "year": 2022,
+
+    "question": "SSC 2022: Total surface area of a cube (side = a)?",
+
+    "options": ["4a²", "6a²", "a³", "12a"],
+
+    "correctAnswer": 1,
+
+    "explanation": "A cube has 6 faces, so total area is 6a²."
+
+  },
+
+  {
+
+    "id": 98,
+
+    "type": "pyq",
+
+    "course": "Railway",
+
+    "year": 2020,
+
+    "question": "Railway 2020: Where is the Eiffel Tower located?",
+
+    "options": ["London", "New York", "Paris", "Berlin"],
+
+    "correctAnswer": 2,
+
+    "explanation": "The Eiffel Tower is in Paris, France."
+
+  },
+
+  {
+
+    "id": 99,
+
+    "type": "pyq",
+
+    "course": "Banking",
+
+    "year": 2021,
+
+    "question": "Banking 2021: CRR stands for?",
+
+    "options": ["Cash Ratio Rate", "Cash Reserve Ratio", "Credit Reserve Rate", "None"],
+
+    "correctAnswer": 1,
+
+    "explanation": "CRR is the Cash Reserve Ratio."
+
+  },
+
+  {
+
+    "id": 100,
+
+    "type": "course",
+
+    "course": "SSC",
+
+    "question": "If SP = 120 and CP = 100, find Profit%?",
+
+    "options": ["10%", "20%", "25%", "30%"],
+
+    "correctAnswer": 1,
+
+    "explanation": "Profit = 20. (20/100) * 100 = 20%."
+
+  },
+  
+  {
+
+    "id": 121,
+
+    "type": "course",
+
+    "course": "SSC",
+
+    "category": "Math",
+
+    "question": "What is the value of (125)^(1/3)?",
+
+    "options": ["5", "15", "25", "50"],
+
+    "correctAnswer": 0,
+
+    "explanation": "Cube root of 125 is 5 (5 × 5 × 5 = 125)."
+
+  },
+
+  {
+
+    "id": 122,
+
+    "type": "course",
+
+    "course": "Railway",
+
+    "category": "GK",
+
+    "question": "Which is the largest fresh water lake in India?",
+
+    "options": ["Chilka Lake", "Wular Lake", "Dal Lake", "Pulicat Lake"],
+
+    "correctAnswer": 1,
+
+    "explanation": "Wular Lake in Jammu & Kashmir is the largest freshwater lake."
+
+  },
+
+  {
+
+    "id": 123,
+
+    "type": "course",
+
+    "course": "Banking",
+
+    "category": "Reasoning",
+
+    "question": "If 'A' is 1, 'B' is 2, and 'C' is 3, what is the sum of letters in 'CAB'?",
+
+    "options": ["5", "6", "7", "8"],
+
+    "correctAnswer": 1,
+
+    "explanation": "C(3) + A(1) + B(2) = 6."
+
+  },
+
+  {
+
+    "id": 124,
+
+    "type": "pyq",
+
+    "course": "SSC",
+
+    "year": 2022,
+
+    "category": "GK",
+
+    "question": "SSC 2022: Fundamental Duties were added by which Amendment?",
+
+    "options": ["42nd", "44th", "52nd", "61st"],
+
+    "correctAnswer": 0,
+
+    "explanation": "The 42nd Amendment (1976) added Fundamental Duties."
+
+  },
+
+  {
+
+    "id": 125,
+
+    "type": "pyq",
+
+    "course": "Railway",
+
+    "year": 2021,
+
+    "category": "Math",
+
+    "question": "Railway 2021: 15% of 400 - 10 = ?",
+
+    "options": ["40", "50", "60", "70"],
+
+    "correctAnswer": 1,
+
+    "explanation": "15% of 400 is 60. 60 - 10 = 50."
+
+  },
+
+  {
+
+    "id": 126,
+
+    "type": "pyq",
+
+    "course": "Banking",
+
+    "year": 2023,
+
+    "category": "Reasoning",
+
+    "question": "Find the odd one out: 49, 64, 81, 90",
+
+    "options": ["49", "64", "81", "90"],
+
+    "correctAnswer": 3,
+
+    "explanation": "49(7²), 64(8²), 81(9²) are squares; 90 is not."
+
+  },
+
+  {
+
+    "id": 127,
+
+    "type": "course",
+
+    "course": "SSC",
+
+    "category": "Reasoning",
+
+    "question": "Pointing to a man, Ram said, 'He is my father's only son.' Who is the man to Ram?",
+
+    "options": ["Brother", "Father", "Himself", "Son"],
+
+    "correctAnswer": 2,
+
+    "explanation": "The only son of Ram's father is Ram himself."
+
+  },
+
+  {
+
+    "id": 128,
+
+    "type": "course",
+
+    "course": "Railway",
+
+    "category": "Math",
+
+    "question": "A train 100m long passes a pole in 5 seconds. Speed?",
+
+    "options": ["10 m/s", "20 m/s", "25 m/s", "50 m/s"],
+
+    "correctAnswer": 1,
+
+    "explanation": "Speed = Distance / Time = 100 / 5 = 20 m/s."
+
+  },
+
+  {
+
+    "id": 129,
+
+    "type": "course",
+
+    "course": "Banking",
+
+    "category": "GK",
+
+    "question": "Which agency manages the credit rating of individuals in India?",
+
+    "options": ["RBI", "SEBI", "CIBIL", "IRDAI"],
+
+    "correctAnswer": 2,
+
+    "explanation": "CIBIL provides credit scores and reports for individuals."
+
+  },
+
+  {
+
+    "id": 130,
+
+    "type": "pyq",
+
+    "course": "SSC",
+
+    "year": 2021,
+
+    "category": "Math",
+
+    "question": "SSC 2021: Simple Interest on 500 for 1 year at 5%?",
+
+    "options": ["20", "25", "30", "50"],
+
+    "correctAnswer": 1,
+
+    "explanation": "(500 × 5 × 1) / 100 = 25."
+
+  },
+
+  {
+
+    "id": 131,
+
+    "type": "pyq",
+
+    "course": "Railway",
+
+    "year": 2019,
+
+    "category": "Reasoning",
+
+    "question": "Complete the series: 2, 6, 12, 20, ?",
+
+    "options": ["24", "26", "30", "32"],
+
+    "correctAnswer": 2,
+
+    "explanation": "Differences: +4, +6, +8, so next is +10. 20+10 = 30."
+
+  },
+
+  {
+
+    "id": 132,
+
+    "type": "pyq",
+
+    "course": "Banking",
+
+    "year": 2020,
+
+    "category": "GK",
+
+    "question": "Banking 2020: Where is the headquarters of World Bank?",
+
+    "options": ["Geneva", "New York", "Washington D.C.", "Paris"],
+
+    "correctAnswer": 2,
+
+    "explanation": "World Bank is located in Washington D.C., USA."
+
+  },
+
+  {
+
+    "id": 133,
+
+    "type": "course",
+
+    "course": "SSC",
+
+    "category": "GK",
+
+    "question": "Who was the founder of the Brahmo Samaj?",
+
+    "options": ["Vivekananda", "Dayananda Saraswati", "Raja Ram Mohan Roy", "Tagore"],
+
+    "correctAnswer": 2,
+
+    "explanation": "Raja Ram Mohan Roy founded Brahmo Samaj in 1828."
+
+  },
+
+  {
+
+    "id": 134,
+
+    "type": "course",
+
+    "course": "Railway",
+
+    "category": "Reasoning",
+
+    "question": "If South-East becomes North, what will West become?",
+
+    "options": ["North-East", "South-East", "South-West", "North-West"],
+
+    "correctAnswer": 1,
+
+    "explanation": "The directions are rotated 135 degrees anti-clockwise."
+
+  },
+
+  {
+
+    "id": 135,
+
+    "type": "course",
+
+    "course": "Banking",
+
+    "category": "Math",
+
+    "question": "Ratio of 1.5m to 10cm?",
+
+    "options": ["1.5:10", "15:10", "15:1", "150:10"],
+
+    "correctAnswer": 3,
+
+    "explanation": "1.5m = 150cm. Ratio = 150:10 = 15:1 (or 150:10 in raw form)."
+
+  },
+
+  {
+
+    "id": 136,
+
+    "type": "pyq",
+
+    "course": "SSC",
+
+    "year": 2023,
+
+    "category": "Reasoning",
+
+    "question": "SSC 2023: Find the missing number: 1, 8, 27, ?",
+
+    "options": ["36", "49", "64", "81"],
+
+    "correctAnswer": 2,
+
+    "explanation": "1³, 2³, 3³, so next is 4³ = 64."
+
+  },
+
+  {
+
+    "id": 137,
+
+    "type": "pyq",
+
+    "course": "Railway",
+
+    "year": 2022,
+
+    "category": "GK",
+
+    "question": "Railway 2022: Which state is the largest producer of Gold in India?",
+
+    "options": ["Bihar", "Odisha", "Karnataka", "Kerala"],
+
+    "correctAnswer": 2,
+
+    "explanation": "Karnataka (Kolar Gold Fields) is the leading producer."
+
+  },
+
+  {
+
+    "id": 138,
+
+    "type": "pyq",
+
+    "course": "Banking",
+
+    "year": 2021,
+
+    "category": "Math",
+
+    "question": "Banking 2021: Average of 15, 25, 35, 45?",
+
+    "options": ["25", "30", "35", "40"],
+
+    "correctAnswer": 1,
+
+    "explanation": "(15+25+35+45)/4 = 120/4 = 30."
+
+  },
+
+  {
+
+    "id": 139,
+
+    "type": "course",
+
+    "course": "SSC",
+
+    "category": "GK",
+
+    "question": "In which year did the First World War begin?",
+
+    "options": ["1912", "1914", "1918", "1939"],
+
+    "correctAnswer": 1,
+
+    "explanation": "WWI began in 1914 and ended in 1918."
+
+  },
+
+  {
+
+    "id": 140,
+
+    "type": "course",
+
+    "course": "Railway",
+
+    "category": "Math",
+
+    "question": "LCM of 12, 15, and 20?",
+
+    "options": ["40", "60", "80", "120"],
+
+    "correctAnswer": 1,
+
+    "explanation": "The smallest number divisible by all three is 60."
+
+  },
+  
+  {
+
+    "id": 141,
+
+    "type": "course",
+
+    "course": "Banking",
+
+    "category": "Math",
+
+    "question": "A sum doubles itself in 8 years at simple interest. What is the rate of interest?",
+
+    "options": ["10%", "12.5%", "15%", "20%"],
+
+    "correctAnswer": 1,
+
+    "explanation": "If Principal is P, Interest is P. R = (P × 100) / (P × 8) = 12.5%."
+
+  },
+
+  {
+
+    "id": 142,
+
+    "type": "course",
+
+    "course": "SSC",
+
+    "category": "GK",
+
+    "question": "Which gas is used for ripening raw fruits?",
+
+    "options": ["Ethylene", "Ethane", "Methane", "Carbon Dioxide"],
+
+    "correctAnswer": 0,
+
+    "explanation": "Ethylene is a natural plant hormone used for fruit ripening."
+
+  },
+
+  {
+
+    "id": 143,
+
+    "type": "course",
+
+    "course": "Railway",
+
+    "category": "Reasoning",
+
+    "question": "If 'WATER' is coded as 'XBUFS', how is 'BLOOD' coded?",
+
+    "options": ["CMPPE", "CMMPE", "CMPPE", "CPPEE"],
+
+    "correctAnswer": 2,
+
+    "explanation": "Each letter is shifted +1: B->C, L->M, O->P, O->P, D->E."
+
+  },
+
+  {
+
+    "id": 144,
+
+    "type": "pyq",
+
+    "course": "Banking",
+
+    "year": 2022,
+
+    "category": "Reasoning",
+
+    "question": "Banking 2022: Find the missing term: 3, 7, 15, 31, ?",
+
+    "options": ["45", "56", "63", "70"],
+
+    "correctAnswer": 2,
+
+    "explanation": "Pattern: (Previous number × 2) + 1. (31 × 2) + 1 = 63."
+
+  },
+
+  {
+
+    "id": 145,
+
+    "type": "pyq",
+
+    "course": "SSC",
+
+    "year": 2021,
+
+    "category": "Math",
+
+    "question": "SSC 2021: The ratio of two numbers is 3:4 and their HCF is 4. Find their LCM.",
+
+    "options": ["12", "16", "24", "48"],
+
+    "correctAnswer": 3,
+
+    "explanation": "Numbers are 3×4=12 and 4×4=16. LCM of 12 and 16 is 48."
+
+  },
+
+  {
+
+    "id": 146,
+
+    "type": "pyq",
+
+    "course": "Railway",
+
+    "year": 2020,
+
+    "category": "GK",
+
+    "question": "Railway 2020: Which is the largest gland in the human body?",
+
+    "options": ["Pancreas", "Thyroid", "Liver", "Adrenal"],
+
+    "correctAnswer": 2,
+
+    "explanation": "The Liver is the largest internal organ and gland."
+
+  },
+
+  {
+
+    "id": 147,
+
+    "type": "course",
+
+    "course": "Banking",
+
+    "category": "GK",
+
+    "question": "Which of the following is an example of 'Plastic Money'?",
+
+    "options": ["Paper currency", "Credit Card", "Cheque", "Demand Draft"],
+
+    "correctAnswer": 1,
+
+    "explanation": "Credit and Debit cards are referred to as plastic money."
+
+  },
+
+  {
+
+    "id": 148,
+
+    "type": "course",
+
+    "course": "SSC",
+
+    "category": "Reasoning",
+
+    "question": "Clock : Time :: Thermometer : ?",
+
+    "options": ["Heat", "Radiation", "Temperature", "Energy"],
+
+    "correctAnswer": 2,
+
+    "explanation": "Clock measures time; Thermometer measures temperature."
+
+  },
+
+  {
+
+    "id": 149,
+
+    "type": "course",
+
+    "course": "Railway",
+
+    "category": "Math",
+
+    "question": "The diagonal of a square is 10 cm. Find its area.",
+
+    "options": ["25 cm²", "50 cm²", "100 cm²", "200 cm²"],
+
+    "correctAnswer": 1,
+
+    "explanation": "Area = (Diagonal²) / 2 = (100) / 2 = 50."
+
+  },
+
+  {
+
+    "id": 150,
+
+    "type": "pyq",
+
+    "course": "Banking",
+
+    "year": 2021,
+
+    "category": "Math",
+
+    "question": "Banking 2021: Simple Interest on ₹2500 for 4 years at 6% p.a.?",
+
+    "options": ["₹500", "₹600", "₹700", "₹800"],
+
+    "correctAnswer": 1,
+
+    "explanation": "(2500 × 4 × 6) / 100 = 600."
+
+  },
+
+  {
+
+    "id": 151,
+
+    "type": "pyq",
+
+    "course": "SSC",
+
+    "year": 2023,
+
+    "category": "GK",
+
+    "question": "SSC 2023: Who was the first Governor-General of independent India?",
+
+    "options": ["Lord Mountbatten", "C. Rajagopalachari", "Dr. Rajendra Prasad", "Jawaharlal Nehru"],
+
+    "correctAnswer": 0,
+
+    "explanation": "Mountbatten was the first; Rajagopalachari was the first 'Indian' Governor-General."
+
+  },
+
+  {
+
+    "id": 152,
+
+    "type": "pyq",
+
+    "course": "Railway",
+
+    "year": 2019,
+
+    "category": "Reasoning",
+
+    "question": "Railway 2019: In a row, Ravi is 7th from left and 9th from right. Total people?",
+
+    "options": ["14", "15", "16", "17"],
+
+    "correctAnswer": 1,
+
+    "explanation": "Total = (Position Left + Position Right) - 1 = (7 + 9) - 1 = 15."
+
+  },
+
+  {
+
+    "id": 153,
+
+    "type": "course",
+
+    "course": "Banking",
+
+    "category": "Reasoning",
+
+    "question": "If 'Pen' is 'Paper', 'Paper' is 'Yellow', 'Yellow' is 'Sky', what is used for writing?",
+
+    "options": ["Pen", "Paper", "Yellow", "Sky"],
+
+    "correctAnswer": 2,
+
+    "explanation": "Pen is used for writing, and 'Pen' is called 'Paper' (Correction: If Pen is Paper, the answer is Paper)."
+
+  },
+
+  {
+
+    "id": 154,
+
+    "type": "course",
+
+    "course": "SSC",
+
+    "category": "Math",
+
+    "question": "If x + y = 10 and x - y = 2, find the value of x.",
+
+    "options": ["4", "5", "6", "8"],
+
+    "correctAnswer": 2,
+
+    "explanation": "2x = 12, so x = 6."
+
+  },
+
+  {
+
+    "id": 155,
+
+    "type": "course",
+
+    "course": "Railway",
+
+    "category": "GK",
+
+    "question": "Which acid is present in Red Ants?",
+
+    "options": ["Citric Acid", "Formic Acid", "Lactic Acid", "Oxalic Acid"],
+
+    "correctAnswer": 1,
+
+    "explanation": "Red ants release Formic Acid when they bite."
+
+  },
+
+  {
+
+    "id": 156,
+
+    "type": "pyq",
+
+    "course": "Banking",
+
+    "year": 2023,
+
+    "category": "GK",
+
+    "question": "Banking 2023: What is the full form of FCNR account?",
+
+    "options": ["Foreign Currency Non-Resident", "Financial Current National Rate", "Fixed Currency Native Return", "None"],
+
+    "correctAnswer": 0,
+
+    "explanation": "FCNR stands for Foreign Currency Non-Resident."
+
+  },
+
+  {
+
+    "id": 157,
+
+    "type": "pyq",
+
+    "course": "SSC",
+
+    "year": 2022,
+
+    "category": "Reasoning",
+
+    "question": "SSC 2022: Odd one out: Ear, Eye, Nose, Throat",
+
+    "options": ["Ear", "Eye", "Nose", "Throat"],
+
+    "correctAnswer": 3,
+
+    "explanation": "Ear, Eye, and Nose are sense organs; Throat is not."
+
+  },
+
+  {
+
+    "id": 158,
+
+    "type": "pyq",
+
+    "course": "Railway",
+
+    "year": 2021,
+
+    "category": "Math",
+
+    "question": "Railway 2021: 1.25 as a fraction is?",
+
+    "options": ["5/4", "4/5", "1/4", "3/2"],
+
+    "correctAnswer": 0,
+
+    "explanation": "125/100 = 5/4."
+
+  },
+
+  {
+
+    "id": 159,
+
+    "type": "course",
+
+    "course": "Banking",
+
+    "category": "Math",
+
+    "question": "Average of first 5 multiples of 3?",
+
+    "options": ["3", "6", "9", "12"],
+
+    "correctAnswer": 2,
+
+    "explanation": "(3+6+9+12+15) / 5 = 45 / 5 = 9."
+
+  },
+
+  {
+
+    "id": 160,
+
+    "type": "course",
+
+    "course": "SSC",
+
+    "category": "GK",
+
+    "question": "Who was the first woman to climb Mount Everest?",
+
+    "options": ["Bachendri Pal", "Junko Tabei", "Santosh Yadav", "Arunima Sinha"],
+
+    "correctAnswer": 1,
+
+    "explanation": "Junko Tabei (Japan) was the first woman in the world to reach the summit."
+
+  },
+
+  {
+    "id": 161,
+    "type": "course",
+    "course": "SSC",
+    "category": "Math",
+    "question": "If the radius of a circle is 7cm, find its circumference.",
+    "options": ["22cm", "44cm", "88cm", "154cm"],
+    "correctAnswer": 1,
+    "explanation": "Circumference = 2πr = 2 * (22/7) * 7 = 44cm."
+  },
+  {
+    "id": 162,
+    "type": "course",
+    "course": "Railway",
+    "category": "GK",
+    "question": "Which layer of the Earth is the thinnest?",
+    "options": ["Crust", "Mantle", "Outer Core", "Inner Core"],
+    "correctAnswer": 0,
+    "explanation": "The Crust is the outermost and thinnest layer of the Earth."
+  },
+  {
+    "id": 163,
+    "type": "course",
+    "course": "Banking",
+    "category": "Reasoning",
+    "question": "In a family, A is B's sister, C is B's mother. How is C related to A?",
+    "options": ["Sister", "Aunt", "Mother", "Daughter"],
+    "correctAnswer": 2,
+    "explanation": "If A and B are siblings and C is B's mother, C is also A's mother."
+  },
+  {
+    "id": 164,
+    "type": "pyq",
+    "course": "SSC",
+    "year": 2022,
+    "category": "Reasoning",
+    "question": "SSC 2022: Arrange in logical order: 1. Elephant 2. Cat 3. Mosquito 4. Tiger",
+    "options": ["3,2,4,1", "1,4,2,3", "3,2,1,4", "2,4,1,3"],
+    "correctAnswer": 0,
+    "explanation": "Order by size (ascending): Mosquito, Cat, Tiger, Elephant."
+  },
+  {
+    "id": 165,
+    "type": "pyq",
+    "course": "Railway",
+    "year": 2021,
+    "category": "Math",
+    "question": "Railway 2021: (0.2 * 0.2 * 0.2) = ?",
+    "options": ["0.8", "0.08", "0.008", "0.0008"],
+    "correctAnswer": 2,
+    "explanation": "2*2*2 = 8. Three decimal places are needed: 0.008."
+  },
+  {
+    "id": 166,
+    "type": "pyq",
+    "course": "Banking",
+    "year": 2020,
+    "category": "GK",
+    "question": "Banking 2020: Which is the first bank established in India?",
+    "options": ["SBI", "Bank of Hindustan", "Punjab National Bank", "Bank of Bengal"],
+    "correctAnswer": 1,
+    "explanation": "Bank of Hindustan was established in 1770."
+  },
+  {
+    "id": 167,
+    "type": "course",
+    "course": "SSC",
+    "category": "GK",
+    "question": "Who started the 'Quit India Movement' in 1942?",
+    "options": ["Subhash Chandra Bose", "Mahatma Gandhi", "Jawaharlal Nehru", "Bhagat Singh"],
+    "correctAnswer": 1,
+    "explanation": "Mahatma Gandhi launched it at the Gwalior Tank Maidan in Mumbai."
+  },
+  {
+    "id": 168,
+    "type": "course",
+    "course": "Railway",
+    "category": "Reasoning",
+    "question": "Find the next number in the series: 5, 11, 17, 23, ?",
+    "options": ["27", "29", "31", "33"],
+    "correctAnswer": 1,
+    "explanation": "The pattern is adding 6 each time. 23 + 6 = 29."
+  },
+  {
+    "id": 169,
+    "type": "course",
+    "course": "Banking",
+    "category": "Math",
+    "question": "A shopkeeper gives 10% and 20% successive discounts. Total discount?",
+    "options": ["25%", "28%", "30%", "32%"],
+    "correctAnswer": 1,
+    "explanation": "100 - 10% = 90. 90 - 20% (18) = 72. Total discount = 100 - 72 = 28%."
+  },
+  {
+    "id": 170,
+    "type": "pyq",
+    "course": "SSC",
+    "year": 2023,
+    "category": "Math",
+    "question": "SSC 2023: Find x if 40% of x = 80.",
+    "options": ["100", "150", "200", "400"],
+    "correctAnswer": 2,
+    "explanation": "0.4x = 80 => x = 80 / 0.4 = 200."
+  },
+  {
+    "id": 171,
+    "type": "pyq",
+    "course": "Railway",
+    "year": 2018,
+    "category": "GK",
+    "question": "Railway 2018: Which vitamin is synthesized by the human body in sunlight?",
+    "options": ["Vitamin A", "Vitamin B", "Vitamin C", "Vitamin D"],
+    "correctAnswer": 3,
+    "explanation": "The skin synthesizes Vitamin D when exposed to UV rays."
+  },
+  {
+    "id": 172,
+    "type": "pyq",
+    "course": "Banking",
+    "year": 2022,
+    "category": "Reasoning",
+    "question": "Banking 2022: If 'RED' is 27, then 'SUN' is?",
+    "options": ["48", "54", "60", "62"],
+    "correctAnswer": 1,
+    "explanation": "Sum of positions: S(19)+U(21)+N(14) = 54."
+  },
+  {
+    "id": 173,
+    "type": "course",
+    "course": "SSC",
+    "category": "Reasoning",
+    "question": "In a certain code, 'FISH' is 'EHRG'. How is 'JUNGLE' written?",
+    "options": ["ITMFKD", "ITNFKD", "KVOHMF", "TIMFKD"],
+    "correctAnswer": 0,
+    "explanation": "Each letter is shifted -1: J-1=I, U-1=T, N-1=M, G-1=F, L-1=K, E-1=D."
+  },
+  {
+    "id": 174,
+    "type": "course",
+    "course": "Railway",
+    "category": "Math",
+    "question": "A cylinder has height 10 and radius 7. Find its volume.",
+    "options": ["770", "1540", "2200", "3080"],
+    "correctAnswer": 1,
+    "explanation": "Volume = πr²h = (22/7) * 7 * 7 * 10 = 1540."
+  },
+  {
+    "id": 175,
+    "type": "course",
+    "course": "Banking",
+    "category": "GK",
+    "question": "What is the full form of MSME?",
+    "options": ["Micro, Small and Medium Enterprises", "Medium, Small and Main Enterprises", "Mini, Small and Medium Enterprises", "None"],
+    "correctAnswer": 0,
+    "explanation": "MSME stands for Micro, Small and Medium Enterprises."
+  },
+  {
+    "id": 176,
+    "type": "pyq",
+    "course": "SSC",
+    "year": 2021,
+    "category": "GK",
+    "question": "SSC 2021: Which planet has the shortest year?",
+    "options": ["Earth", "Venus", "Mars", "Mercury"],
+    "correctAnswer": 3,
+    "explanation": "Mercury is closest to the sun and orbits it in 88 days."
+  },
+  {
+    "id": 177,
+    "type": "pyq",
+    "course": "Railway",
+    "year": 2019,
+    "category": "Reasoning",
+    "question": "Railway 2019: If 1st January was Monday, what was 31st December of the same (non-leap) year?",
+    "options": ["Sunday", "Monday", "Tuesday", "Wednesday"],
+    "correctAnswer": 1,
+    "explanation": "In an ordinary year, the first and last days are always the same."
+  },
+  {
+    "id": 178,
+    "type": "pyq",
+    "course": "Banking",
+    "year": 2023,
+    "category": "Math",
+    "question": "Banking 2023: Find the average of 2, 4, 6, 8, 10, 12.",
+    "options": ["6", "7", "8", "9"],
+    "correctAnswer": 1,
+    "explanation": "Sum = 42. 42 / 6 = 7."
+  },
+  {
+    "id": 179,
+    "type": "course",
+    "course": "SSC",
+    "category": "Math",
+    "question": "Find the value of x: 2x + 5 = 15.",
+    "options": ["5", "10", "15", "20"],
+    "correctAnswer": 0,
+    "explanation": "2x = 10 => x = 5."
+  },
+  {
+    "id": 180,
+    "type": "course",
+    "course": "Railway",
+    "category": "GK",
+    "question": "Which state is known as the 'Sugar Bowl' of India?",
+    "options": ["Punjab", "Haryana", "Uttar Pradesh", "Bihar"],
+    "correctAnswer": 2,
+    "explanation": "Uttar Pradesh is the largest producer of sugarcane in India."
+  },
+
+  
+  {
+    "id": 181,
+    "type": "course",
+    "course": "Banking",
+    "category": "Math",
+    "question": "A sum of money doubles itself in 5 years at Compound Interest. In how many years will it become 8 times?",
+    "options": ["10 years", "15 years", "20 years", "25 years"],
+    "correctAnswer": 1,
+    "explanation": "2^1 in 5 years; 8 is 2^3, so 3 * 5 = 15 years."
+  },
+  {
+    "id": 182,
+    "type": "course",
+    "course": "SSC",
+    "category": "GK",
+    "question": "Which Constitutional Amendment is known as the 'Mini Constitution'?",
+    "options": ["7th", "24th", "42nd", "44th"],
+    "correctAnswer": 2,
+    "explanation": "The 42nd Amendment (1976) made massive changes to the Constitution."
+  },
+  {
+    "id": 183,
+    "type": "course",
+    "course": "Railway",
+    "category": "Reasoning",
+    "question": "If 'TEACHER' is coded as 'VGCEJGT', how is 'STUDENT' coded?",
+    "options": ["UVWFGPV", "UVWFGPU", "UVXFGPV", "VTVFGPV"],
+    "correctAnswer": 0,
+    "explanation": "Pattern is +2 shift for every letter: S+2=U, T+2=V, U+2=W, etc."
+  },
+  {
+    "id": 184,
+    "type": "pyq",
+    "course": "Banking",
+    "year": 2022,
+    "category": "Reasoning",
+    "question": "Banking 2022: Seven people are sitting in a circle facing the center. If A is to the left of B, where is B relative to A?",
+    "options": ["Immediate Left", "Immediate Right", "Second Left", "Opposite"],
+    "correctAnswer": 1,
+    "explanation": "In a circular arrangement, if A is left of B, B must be to the immediate right of A."
+  },
+  {
+    "id": 185,
+    "type": "pyq",
+    "course": "SSC",
+    "year": 2021,
+    "category": "Math",
+    "question": "SSC 2021: What is the unit digit of 234 * 567 * 891?",
+    "options": ["4", "8", "6", "2"],
+    "correctAnswer": 1,
+    "explanation": "Multiply the unit digits: 4 * 7 * 1 = 28. Unit digit is 8."
+  },
+  {
+    "id": 186,
+    "type": "pyq",
+    "course": "Railway",
+    "year": 2020,
+    "category": "GK",
+    "question": "Railway 2020: Which gas is used in electric bulbs?",
+    "options": ["Oxygen", "Hydrogen", "Argon", "Carbon Dioxide"],
+    "correctAnswer": 2,
+    "explanation": "Inert gases like Argon or Nitrogen are used to prevent filament oxidation."
+  },
+  {
+    "id": 187,
+    "type": "course",
+    "course": "Banking",
+    "category": "GK",
+    "question": "What does 'S' stand for in 'RTGS'?",
+    "options": ["System", "Settlement", "Service", "Standard"],
+    "correctAnswer": 1,
+    "explanation": "RTGS stands for Real Time Gross Settlement."
+  },
+  {
+    "id": 188,
+    "type": "course",
+    "course": "SSC",
+    "category": "Reasoning",
+    "question": "Select the missing number: 7, 10, 14, 19, ?",
+    "options": ["24", "25", "26", "27"],
+    "correctAnswer": 1,
+    "explanation": "Pattern: +3, +4, +5, so next is +6. 19 + 6 = 25."
+  },
+  {
+    "id": 189,
+    "type": "course",
+    "course": "Railway",
+    "category": "Math",
+    "question": "A person covers 600m in 5 minutes. Find speed in km/h.",
+    "options": ["3.6 km/h", "7.2 km/h", "10 km/h", "12 km/h"],
+    "correctAnswer": 1,
+    "explanation": "Speed = 600m/300s = 2 m/s. 2 * (18/5) = 7.2 km/h."
+  },
+  {
+    "id": 190,
+    "type": "pyq",
+    "course": "Banking",
+    "year": 2021,
+    "category": "Math",
+    "question": "Banking 2021: If the average of five consecutive numbers is 20, find the largest number.",
+    "options": ["20", "21", "22", "23"],
+    "correctAnswer": 2,
+    "explanation": "Average is the middle number (20). Numbers are 18, 19, 20, 21, 22."
+  },
+  {
+    "id": 191,
+    "type": "pyq",
+    "course": "SSC",
+    "year": 2023,
+    "category": "GK",
+    "question": "SSC 2023: Which river is known as the 'Sorrow of Bihar'?",
+    "options": ["Ganga", "Yamuna", "Kosi", "Son"],
+    "correctAnswer": 2,
+    "explanation": "Kosi river is called the 'Sorrow of Bihar' due to frequent flooding."
+  },
+  {
+    "id": 192,
+    "type": "pyq",
+    "course": "Railway",
+    "year": 2019,
+    "category": "Reasoning",
+    "question": "Railway 2019: If 15th August 2011 was Monday, what was 15th August 2012?",
+    "options": ["Tuesday", "Wednesday", "Thursday", "Friday"],
+    "correctAnswer": 1,
+    "explanation": "2012 is a leap year; add 2 days from Monday to get Wednesday."
+  },
+  {
+    "id": 193,
+    "type": "course",
+    "course": "Banking",
+    "category": "Reasoning",
+    "question": "Doctor : Patient :: Lawyer : ?",
+    "options": ["Court", "Client", "Police", "Judge"],
+    "correctAnswer": 1,
+    "explanation": "A doctor treats a patient; a lawyer represents a client."
+  },
+  {
+    "id": 194,
+    "type": "course",
+    "course": "SSC",
+    "category": "Math",
+    "question": "If 10 men can do a work in 20 days, how many days will 20 men take?",
+    "options": ["5 days", "10 days", "15 days", "40 days"],
+    "correctAnswer": 1,
+    "explanation": "M1D1 = M2D2. 10 * 20 = 20 * D2. D2 = 10."
+  },
+  {
+    "id": 195,
+    "type": "course",
+    "course": "Railway",
+    "category": "GK",
+    "question": "Who was the first Indian woman to win an Olympic medal?",
+    "options": ["Saina Nehwal", "M.C. Mary Kom", "Karnam Malleswari", "P.V. Sindhu"],
+    "correctAnswer": 2,
+    "explanation": "Karnam Malleswari won bronze in weightlifting at the 2000 Sydney Olympics."
+  },
+  {
+    "id": 196,
+    "type": "pyq",
+    "course": "Banking",
+    "year": 2023,
+    "category": "GK",
+    "question": "Banking 2023: Which committee recommended the formation of NABARD?",
+    "options": ["Hilton Young", "B. Sivaraman", "Narasimham", "Verma"],
+    "correctAnswer": 1,
+    "explanation": "Sivaraman Committee recommended the set up of NABARD."
+  },
+  {
+    "id": 197,
+    "type": "pyq",
+    "course": "SSC",
+    "year": 2022,
+    "category": "Reasoning",
+    "question": "SSC 2022: If '+' means '×' and '×' means '-', what is 5 + 4 × 10?",
+    "options": ["10", "20", "30", "50"],
+    "correctAnswer": 0,
+    "explanation": "Expression becomes 5 * 4 - 10 = 20 - 10 = 10."
+  },
+  {
+    "id": 198,
+    "type": "pyq",
+    "course": "Railway",
+    "year": 2021,
+    "category": "Math",
+    "question": "Railway 2021: The cube root of 2744 is?",
+    "options": ["12", "14", "16", "18"],
+    "correctAnswer": 1,
+    "explanation": "14 * 14 * 14 = 2744."
+  },
+  {
+    "id": 199,
+    "type": "course",
+    "course": "Banking",
+    "category": "Math",
+    "question": "Find the median of the following data: 5, 8, 12, 15, 20.",
+    "options": ["8", "12", "15", "11"],
+    "correctAnswer": 1,
+    "explanation": "Median is the middle value in a sorted list. Here, it is 12."
+  },
+  {
+    "id": 200,
+    "type": "course",
+    "course": "SSC",
+    "category": "GK",
+    "question": "Who is known as the 'Father of Indian Constitution'?",
+    "options": ["M.K. Gandhi", "J.L. Nehru", "B.R. Ambedkar", "Sardar Patel"],
+    "correctAnswer": 2,
+    "explanation": "Dr. B.R. Ambedkar was the Chairman of the Drafting Committee."
+  }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+]
+
+
+
+
+
+
+
+
+
+
